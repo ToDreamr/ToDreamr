@@ -8,17 +8,17 @@
 
 - 🌱  I speak 2 languages:Chinese(native),English(proficient)
 
-- 💬  I write my own [blogs](https://todreamr.github.io/) in my spare time.If you like , welcome to this unknown site.
+- 💬  I write my own ✈️✈️[blogs](https://todreamr.github.io/)✈️✈️ in my spare time.If you like , welcome to this unknown site.
 
 - 📫  You can write email to <aruixrain@gmail.com> and contact with me;
 
 ### I usually write code with... 💻
 <hr/>
 
-- ☕ Java,C,Latex
-- 🦣 JavaScript,HTML,CSS
-- 🐇 Vue,ElementUI
-- 🌿 SpringBoot
+- ☕ Java,Cpp,Python
+- 🦣 TypeScript,HTML,CSS
+- 🐇 Vue,Nuxt
+- 🌿 SpringBoot,SpringCloud
 
 <hr/>
 
