@@ -6,12 +6,13 @@
 
 - 🔭  I’m a  front and Backends developer,making some interesting 😺websites😺 is my passion of life.
 
-- 🌱  I speak 2 languages:Chinese(native),English(proficient)
+- 🌱  I speak 3 languages:Chinese(native),English(proficient)
 
 - 💬  I write my own ✈️✈️[blogs](https://todreamr.github.io/)✈️✈️ in my spare time.If you like , welcome to this unknown site.
 
 - 📫  You can write email to <aruixrain@gmail.com> and contact with me;
 
+- 🈂️  I'm now learning Japanese,working for a private company.
 ### I usually write code with... 💻
 <hr/>
 
