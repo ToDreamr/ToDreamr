@@ -32,3 +32,6 @@
   <img src="https://count.getloli.com/@:Xu?name=%3AXu&theme=booru-huggboo&padding=1&offset=1&align=top&scale=1&pixelated=1&darkmode=auto&num=7&prefix=434268">
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Todreamr)](https://github.com/Todreamr/Todreamr)
+
+
